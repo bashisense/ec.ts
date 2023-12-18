@@ -7,3 +7,7 @@
 [submodule "deps/quickjs"]
 	path = deps/quickjs
 	url = https://github.com/quickjs-ng/quickjs.git
+[submodule "deps/wasm3"]
+	path = deps/wasm3
+	url = https://github.com/saghul/wasm3.git
+	branch = v0.5-tjs
