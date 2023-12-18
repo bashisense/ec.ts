@@ -7,7 +7,8 @@ import './navigator.js';
 import './event-target-polyfill.js';
 import './url-polyfill.js';
 
-import './xhr.js';
+//import './xhr.js';
+
 import 'whatwg-fetch';
 import 'abortcontroller-polyfill/dist/polyfill-patch-fetch';
 
@@ -22,6 +23,6 @@ import './console.js';
 import './crypto.js';
 import './performance.js';
 import './storage.js';
-import './wasm.js';
+//import './wasm.js';
 import './worker.js';
-import './ws.js';
+//import './ws.js';

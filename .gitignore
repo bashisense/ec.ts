@@ -1,6 +1,20 @@
 # Prerequisites
 *.d
 
+.vscode
+.idea
+.DS_Store
+
+build/
+src/bundles/js/
+src/js/core.js
+src/js/std.js
+src/version.h
+node_modules/
+docs/api/
+test_dir*/
+
+
 # Object files
 *.o
 *.ko

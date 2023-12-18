@@ -28,7 +28,9 @@
 #include "bundles/c/stdlib/hashing.c"
 #include "bundles/c/stdlib/ipaddr.c"
 #include "bundles/c/stdlib/path.c"
+#if ECTS_ENGINE
 #include "bundles/c/stdlib/sqlite.c"
+#endif
 #include "bundles/c/stdlib/uuid.c"
 #include "private.h"
 
