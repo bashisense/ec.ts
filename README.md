@@ -1,7 +1,9 @@
+# ec.ts Edge Computing Typescript runtime
 
-<p align="center">
-    <img width="480" src="https://raw.githubusercontent.com/saghul/txiki.js/master/logo.png" />
-</p>
+
+# Base on txiki.js — The tiny JavaScript runtime
+
+-------------------------
 
 # txiki.js — The tiny JavaScript runtime
 
